@@ -1,0 +1,361 @@
+"scenario","direction","model","outcome_reference","group","predicted","observed","unweighted_n","events"
+"NH development apparent","Forward","Age only","US",1,0.0154908509227805,0.0132750231448587,232,3
+"NH development apparent","Forward","Age only","US",2,0.0186373836065464,0.0145287308495399,214,4
+"NH development apparent","Forward","Age only","US",3,0.022540716045215,0.0151134982025379,181,3
+"NH development apparent","Forward","Age only","US",4,0.0284553085821443,0.0486509450909669,252,11
+"NH development apparent","Forward","Age only","US",5,0.0357837089730458,0.0471555873283959,235,12
+"NH development apparent","Forward","Age only","US",6,0.0452241139355145,0.032917200725172,375,11
+"NH development apparent","Forward","Age only","US",7,0.0592860456138167,0.0479434974598554,262,15
+"NH development apparent","Forward","Age only","US",8,0.075976253710501,0.0639442458191055,233,11
+"NH development apparent","Forward","Age only","US",9,0.109572382451918,0.116782768428652,402,47
+"NH development apparent","Forward","Age only","US",10,0.165247242192316,0.167679098187209,276,44
+"NH development apparent","Forward","OSTA","US",1,0.00137881871135218,0.00601163704267627,229,1
+"NH development apparent","Forward","OSTA","US",2,0.00489118987114043,0.00149039308771828,269,1
+"NH development apparent","Forward","OSTA","US",3,0.00945692899058038,0.0157687258314192,256,4
+"NH development apparent","Forward","OSTA","US",4,0.0152165163479952,0.0099432457307941,258,2
+"NH development apparent","Forward","OSTA","US",5,0.0226783559337755,0.0324765472693759,247,6
+"NH development apparent","Forward","OSTA","US",6,0.0332874855620817,0.0398992755349705,254,8
+"NH development apparent","Forward","OSTA","US",7,0.0470064918200715,0.0402625442544742,270,8
+"NH development apparent","Forward","OSTA","US",8,0.0684113617718293,0.0491885653334232,271,15
+"NH development apparent","Forward","OSTA","US",9,0.10692301015112,0.096528906615361,287,29
+"NH development apparent","Forward","OSTA","US",10,0.242290068446109,0.259733342026109,321,87
+"NH development apparent","Forward","Age-weight spline","US",1,0.00363440881142417,0,213,0
+"NH development apparent","Forward","Age-weight spline","US",2,0.00764933729778038,0.00914419559550415,241,2
+"NH development apparent","Forward","Age-weight spline","US",3,0.0117185541499981,0.013477946947655,225,3
+"NH development apparent","Forward","Age-weight spline","US",4,0.0166069390292052,0,255,0
+"NH development apparent","Forward","Age-weight spline","US",5,0.0224594855383262,0.0255635112135854,249,6
+"NH development apparent","Forward","Age-weight spline","US",6,0.0303536121713868,0.0609822570949831,286,9
+"NH development apparent","Forward","Age-weight spline","US",7,0.0418969182111659,0.0347627564627952,297,9
+"NH development apparent","Forward","Age-weight spline","US",8,0.0598691987854582,0.0506146531312222,296,17
+"NH development apparent","Forward","Age-weight spline","US",9,0.0964930811233338,0.109567309298507,279,30
+"NH development apparent","Forward","Age-weight spline","US",10,0.26003034330212,0.246545720748836,321,85
+"NH development apparent","Forward","Ridge","US",1,0.0129832076575012,0.0060238695954962,225,1
+"NH development apparent","Forward","Ridge","US",2,0.0232407624065536,0.00149891819131086,279,1
+"NH development apparent","Forward","Ridge","US",3,0.0309501928434244,0.0119760911463988,263,3
+"NH development apparent","Forward","Ridge","US",4,0.037916258574397,0.00873162735017632,252,3
+"NH development apparent","Forward","Ridge","US",5,0.0444933267376476,0.037916693024293,253,6
+"NH development apparent","Forward","Ridge","US",6,0.0523958534154727,0.0473842102454606,243,9
+"NH development apparent","Forward","Ridge","US",7,0.0597251000530887,0.0374427169844692,265,9
+"NH development apparent","Forward","Ridge","US",8,0.0706963405817968,0.0593702248131695,269,17
+"NH development apparent","Forward","Ridge","US",9,0.0870880521313594,0.0917166864527884,294,30
+"NH development apparent","Forward","Ridge","US",10,0.130629081760397,0.24831160639152,319,82
+"NH temporal validation 1","Forward","Age only","US",1,0.0154115965156613,0.0334276015914273,83,2
+"NH temporal validation 1","Forward","Age only","US",2,0.0184663078087489,0,94,0
+"NH temporal validation 1","Forward","Age only","US",3,0.0238481659934221,0.0411595413712066,108,4
+"NH temporal validation 1","Forward","Age only","US",4,0.03134048901827,0.124772776619659,96,12
+"NH temporal validation 1","Forward","Age only","US",5,0.0396165198731224,0.0607665472518212,91,4
+"NH temporal validation 1","Forward","Age only","US",6,0.0477705786857147,0.0557895096695152,99,8
+"NH temporal validation 1","Forward","Age only","US",7,0.0603090251535401,0.0690862347303149,115,8
+"NH temporal validation 1","Forward","Age only","US",8,0.0780827334316628,0.0748305031743832,97,11
+"NH temporal validation 1","Forward","Age only","US",9,0.104372718725174,0.133902818761892,116,17
+"NH temporal validation 1","Forward","Age only","US",10,0.159012186259851,0.166991681847868,96,16
+"NH temporal validation 1","Forward","OSTA","US",1,0.000898190687774884,0,96,0
+"NH temporal validation 1","Forward","OSTA","US",2,0.00384045442977429,0.0283185852618697,92,1
+"NH temporal validation 1","Forward","OSTA","US",3,0.00803564644893045,0.00538217133757774,100,1
+"NH temporal validation 1","Forward","OSTA","US",4,0.0141363372481269,0.0223561727689772,84,2
+"NH temporal validation 1","Forward","OSTA","US",5,0.0228010778603426,0.0504027413072627,98,4
+"NH temporal validation 1","Forward","OSTA","US",6,0.0326147636601446,0.046866047592945,84,7
+"NH temporal validation 1","Forward","OSTA","US",7,0.0481851822731986,0.071742703820282,106,7
+"NH temporal validation 1","Forward","OSTA","US",8,0.0712416270067443,0.140192733356409,107,12
+"NH temporal validation 1","Forward","OSTA","US",9,0.11121048308075,0.181592267390916,116,18
+"NH temporal validation 1","Forward","OSTA","US",10,0.247984724781189,0.21085248312123,112,30
+"NH temporal validation 1","Forward","Age-weight spline","US",1,0.00402425582850166,0.0291471267592535,85,1
+"NH temporal validation 1","Forward","Age-weight spline","US",2,0.00840476185309228,0.00526053601415799,94,1
+"NH temporal validation 1","Forward","Age-weight spline","US",3,0.0135138284605765,0,87,0
+"NH temporal validation 1","Forward","Age-weight spline","US",4,0.0196658159836081,0.0317535496907061,92,2
+"NH temporal validation 1","Forward","Age-weight spline","US",5,0.0274507583930035,0.0409746923557295,101,4
+"NH temporal validation 1","Forward","Age-weight spline","US",6,0.0371064042456269,0.0277782489513021,94,5
+"NH temporal validation 1","Forward","Age-weight spline","US",7,0.0494453683372487,0.0858473752943624,111,9
+"NH temporal validation 1","Forward","Age-weight spline","US",8,0.0674187957489639,0.0922207001521302,102,9
+"NH temporal validation 1","Forward","Age-weight spline","US",9,0.104214083115738,0.207179117724749,119,21
+"NH temporal validation 1","Forward","Age-weight spline","US",10,0.296158131358507,0.237640595831163,110,30
+"NH temporal validation 1","Forward","Ridge","US",1,0.0102936645530535,0,96,0
+"NH temporal validation 1","Forward","Ridge","US",2,0.020731980461165,0.0296625557038118,93,1
+"NH temporal validation 1","Forward","Ridge","US",3,0.0284688631406254,0.00520917044984174,101,1
+"NH temporal validation 1","Forward","Ridge","US",4,0.0368020071907437,0.047568798626575,84,3
+"NH temporal validation 1","Forward","Ridge","US",5,0.0445444031646872,0.0408522327432126,97,5
+"NH temporal validation 1","Forward","Ridge","US",6,0.052390261541351,0.0561245162036721,91,6
+"NH temporal validation 1","Forward","Ridge","US",7,0.0607626104432953,0.0380915688751201,101,6
+"NH temporal validation 1","Forward","Ridge","US",8,0.0721883484849187,0.13727992667305,122,15
+"NH temporal validation 1","Forward","Ridge","US",9,0.0890153824910823,0.200502128734582,104,18
+"NH temporal validation 1","Forward","Ridge","US",10,0.127905566796287,0.202552702645316,106,27
+"NH temporal validation 2","Forward","Age only","US",1,0.0172378061398659,0.0472225494902035,190,7
+"NH temporal validation 2","Forward","Age only","US",2,0.0226903029534618,0.0214932107432922,150,5
+"NH temporal validation 2","Forward","Age only","US",3,0.027187259798447,0.0258571582974864,133,5
+"NH temporal validation 2","Forward","Age only","US",4,0.0329260800309623,0.0438947387703309,113,5
+"NH temporal validation 2","Forward","Age only","US",5,0.0396880834754011,0.0871180661069933,165,7
+"NH temporal validation 2","Forward","Age only","US",6,0.0497639180414854,0.0599760224827564,193,17
+"NH temporal validation 2","Forward","Age only","US",7,0.0647770969839393,0.0633283787916537,160,11
+"NH temporal validation 2","Forward","Age only","US",8,0.0853420011034732,0.135677423419327,136,15
+"NH temporal validation 2","Forward","Age only","US",9,0.117046664442179,0.118091467997081,136,17
+"NH temporal validation 2","Forward","Age only","US",10,0.16336634020721,0.213026804973434,120,24
+"NH temporal validation 2","Forward","OSTA","US",1,0.00130053278731924,0.0165538821799166,147,2
+"NH temporal validation 2","Forward","OSTA","US",2,0.00449121553541107,0.0124831635613022,151,2
+"NH temporal validation 2","Forward","OSTA","US",3,0.00947088828278445,0.011323171803449,150,2
+"NH temporal validation 2","Forward","OSTA","US",4,0.014648075475214,0.043003736107386,149,7
+"NH temporal validation 2","Forward","OSTA","US",5,0.0225458377815669,0.0277560312672589,163,6
+"NH temporal validation 2","Forward","OSTA","US",6,0.0327450634313773,0.0488673074015627,139,3
+"NH temporal validation 2","Forward","OSTA","US",7,0.046400603890797,0.0399412090872381,137,7
+"NH temporal validation 2","Forward","OSTA","US",8,0.0711900660120571,0.119057301389437,151,16
+"NH temporal validation 2","Forward","OSTA","US",9,0.111298984314585,0.14979189250962,145,24
+"NH temporal validation 2","Forward","OSTA","US",10,0.227465718946346,0.31575186715385,164,44
+"NH temporal validation 2","Forward","Age-weight spline","US",1,0.00627692826052894,0.0149562023369757,163,2
+"NH temporal validation 2","Forward","Age-weight spline","US",2,0.013095874474089,0.00147012295457605,147,1
+"NH temporal validation 2","Forward","Age-weight spline","US",3,0.0193258945217903,0.00920600893462372,147,2
+"NH temporal validation 2","Forward","Age-weight spline","US",4,0.0253638237315901,0.0140757413361991,133,2
+"NH temporal validation 2","Forward","Age-weight spline","US",5,0.0328037990085567,0.0390857732386685,173,10
+"NH temporal validation 2","Forward","Age-weight spline","US",6,0.0428884587430168,0.0772084975935181,139,6
+"NH temporal validation 2","Forward","Age-weight spline","US",7,0.0573139114643211,0.0268106814422332,130,4
+"NH temporal validation 2","Forward","Age-weight spline","US",8,0.0844490699852248,0.116101264310601,167,20
+"NH temporal validation 2","Forward","Age-weight spline","US",9,0.142518624482038,0.159784869485996,137,17
+"NH temporal validation 2","Forward","Age-weight spline","US",10,0.347965462376163,0.323317795190179,160,49
+"NH temporal validation 2","Forward","Ridge","US",1,0.0123423560809251,0.0164120552733588,147,2
+"NH temporal validation 2","Forward","Ridge","US",2,0.0221607590573804,0.0128690694903634,161,2
+"NH temporal validation 2","Forward","Ridge","US",3,0.0306259708405815,0.0177342217929929,151,4
+"NH temporal validation 2","Forward","Ridge","US",4,0.0368334826341621,0.0344482832468933,143,4
+"NH temporal validation 2","Forward","Ridge","US",5,0.0440863639359891,0.0341380229746422,160,7
+"NH temporal validation 2","Forward","Ridge","US",6,0.0516131454118918,0.0230824593313404,146,4
+"NH temporal validation 2","Forward","Ridge","US",7,0.0604754044699192,0.0667072074047999,140,10
+"NH temporal validation 2","Forward","Ridge","US",8,0.0713129444017524,0.109632092969421,152,13
+"NH temporal validation 2","Forward","Ridge","US",9,0.0875562305599393,0.156398074983099,140,24
+"NH temporal validation 2","Forward","Ridge","US",10,0.123833049302003,0.309775076598307,156,43
+"KN historical geographic","Forward","Age only","Asian local",1,0.015519767963171,0.0225665897899985,466,10
+"KN historical geographic","Forward","Age only","Asian local",2,0.0187711703312856,0.0284901700423161,455,12
+"KN historical geographic","Forward","Age only","Asian local",3,0.0224512151204101,0.0481279870567334,362,18
+"KN historical geographic","Forward","Age only","Asian local",4,0.0284994018314716,0.0567108416610738,524,32
+"KN historical geographic","Forward","Age only","Asian local",5,0.0375303706009202,0.101460052368426,527,53
+"KN historical geographic","Forward","Age only","Asian local",6,0.0492537949686455,0.131660581030574,512,57
+"KN historical geographic","Forward","Age only","Asian local",7,0.0654235584204489,0.183918784724255,502,98
+"KN historical geographic","Forward","Age only","Asian local",8,0.0886276403999537,0.31483760194869,723,213
+"KN historical geographic","Forward","Age only","Asian local",9,0.123670624633358,0.449917156702216,549,239
+"KN historical geographic","Forward","Age only","Asian local",10,0.170941378050239,0.544959398368773,391,206
+"KN historical geographic","Forward","OSTA","Asian local",1,0.0182762903033586,0.0204523864684833,451,8
+"KN historical geographic","Forward","OSTA","Asian local",2,0.0329244370548709,0.0152951617802371,423,8
+"KN historical geographic","Forward","OSTA","Asian local",3,0.0451311001169943,0.0536828812086924,431,18
+"KN historical geographic","Forward","OSTA","Asian local",4,0.0581683767067496,0.0507957652463816,478,30
+"KN historical geographic","Forward","OSTA","Asian local",5,0.0750155871667146,0.0677904342453276,479,35
+"KN historical geographic","Forward","OSTA","Asian local",6,0.0945345430866178,0.0986206551938537,503,51
+"KN historical geographic","Forward","OSTA","Asian local",7,0.124325247624304,0.191824318805047,559,98
+"KN historical geographic","Forward","OSTA","Asian local",8,0.174952268719159,0.280688629676687,572,155
+"KN historical geographic","Forward","OSTA","Asian local",9,0.252525986009999,0.40039338164441,556,202
+"KN historical geographic","Forward","OSTA","Asian local",10,0.432288245659673,0.620875349141099,559,333
+"KN historical geographic","Forward","Age-weight spline","Asian local",1,0.00486120138809362,0.0101272757706505,426,3
+"KN historical geographic","Forward","Age-weight spline","Asian local",2,0.00846746827932558,0.0194170314985351,407,6
+"KN historical geographic","Forward","Age-weight spline","Asian local",3,0.0127194308817048,0.0495798798375586,420,19
+"KN historical geographic","Forward","Age-weight spline","Asian local",4,0.0176286899269367,0.0267642771895672,473,17
+"KN historical geographic","Forward","Age-weight spline","Asian local",5,0.0238005702558936,0.0912574668763963,532,49
+"KN historical geographic","Forward","Age-weight spline","Asian local",6,0.0311928192096743,0.102886594656395,517,52
+"KN historical geographic","Forward","Age-weight spline","Asian local",7,0.041526156581326,0.209242627910542,561,111
+"KN historical geographic","Forward","Age-weight spline","Asian local",8,0.0589281933790488,0.27718859500461,545,139
+"KN historical geographic","Forward","Age-weight spline","Asian local",9,0.0971244200646906,0.416928926935462,578,228
+"KN historical geographic","Forward","Age-weight spline","Asian local",10,0.305255785854632,0.591995303193173,552,314
+"KN historical geographic","Forward","Ridge","Asian local",1,0.037697103016604,0.0246290557139356,441,10
+"KN historical geographic","Forward","Ridge","Asian local",2,0.04853745241347,0.0112331127183773,430,6
+"KN historical geographic","Forward","Ridge","Asian local",3,0.0552888537430619,0.0500671057605422,422,14
+"KN historical geographic","Forward","Ridge","Asian local",4,0.0609872049100183,0.0425641130876826,451,25
+"KN historical geographic","Forward","Ridge","Asian local",5,0.0680059674661207,0.0687857984545783,499,39
+"KN historical geographic","Forward","Ridge","Asian local",6,0.0760237270663642,0.0934570343206938,521,49
+"KN historical geographic","Forward","Ridge","Asian local",7,0.086867584238381,0.216278565137639,552,109
+"KN historical geographic","Forward","Ridge","Asian local",8,0.103229392698021,0.282926922864135,564,147
+"KN historical geographic","Forward","Ridge","Asian local",9,0.125615862077316,0.396921322881506,581,217
+"KN historical geographic","Forward","Ridge","Asian local",10,0.173608428086208,0.607468741209423,550,322
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",1,0.0163531434115566,0.0356310867954726,182,7
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",2,0.0205038535869223,0.0255429640544204,107,3
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",3,0.024685184515999,0.0579371557362108,117,8
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",4,0.0313623057713622,0.0598420869083084,144,10
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",5,0.0413460537535706,0.0733202670211174,172,15
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",6,0.0517323257011236,0.0897266685068547,148,15
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",7,0.0653024133431352,0.110328686092603,164,22
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",8,0.0845714036253452,0.163413192511709,191,29
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",9,0.113385153483715,0.187025770066119,186,37
+"KN contemporary temporal-geographic","Forward","Age only","Asian local",10,0.160067735942641,0.342239888729209,142,50
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",1,0.0146159469698663,0.0211817364622429,140,3
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",2,0.0326321328998987,0.0391804074892536,135,6
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",3,0.0484326825929136,0.0236007627297816,141,5
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",4,0.0637375814429542,0.0441129984778583,156,9
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",5,0.0804191811755144,0.0525076676161858,147,10
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",6,0.100323760729919,0.0644086350455974,146,12
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",7,0.126561333999876,0.0759641489621172,163,13
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",8,0.16402410706452,0.141737523977856,178,25
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",9,0.225891006743842,0.28129294834667,180,50
+"KN contemporary temporal-geographic","Forward","OSTA","Asian local",10,0.353872094296895,0.361066387658539,167,63
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",1,0.00563294095192248,0.0153079312641953,130,2
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",2,0.0112088885338972,0.0212196450178993,141,3
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",3,0.0168593874810263,0.034937876418744,131,6
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",4,0.022771829602739,0.0531761399274177,148,10
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",5,0.0295876565887987,0.0488550718213201,154,10
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",6,0.0368920439163235,0.0639219597869893,162,11
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",7,0.0470698233497281,0.085481028484692,170,18
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",8,0.0630053671936652,0.164320068161193,179,30
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",9,0.0909979442513265,0.228706243685136,171,39
+"KN contemporary temporal-geographic","Forward","Age-weight spline","Asian local",10,0.217119964569775,0.386493755440696,167,67
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",1,0.0345352589490023,0.0140389902694172,138,2
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",2,0.0497102191110655,0.046960548381074,135,7
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",3,0.0583471315706604,0.023310407524247,139,5
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",4,0.0652058543285997,0.0429590889790941,144,8
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",5,0.0717995832115642,0.0525070180693545,148,11
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",6,0.0801588877180324,0.0938101443939852,158,14
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",7,0.0895829810030785,0.0872109250002123,158,16
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",8,0.10111950079903,0.142195286976472,171,25
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",9,0.119503293438574,0.213197921291462,194,42
+"KN contemporary temporal-geographic","Forward","Ridge","Asian local",10,0.154661793722116,0.385871066874214,168,66
+"KN historical common reference","Forward sensitivity","Age only","US",1,0.015519767963171,0.0256062797697235,466,13
+"KN historical common reference","Forward sensitivity","Age only","US",2,0.0187711703312856,0.0482657913555408,455,23
+"KN historical common reference","Forward sensitivity","Age only","US",3,0.0224512151204101,0.0854321603814868,362,30
+"KN historical common reference","Forward sensitivity","Age only","US",4,0.0284994018314716,0.0986684248140332,524,53
+"KN historical common reference","Forward sensitivity","Age only","US",5,0.0375303706009202,0.167363076485884,527,84
+"KN historical common reference","Forward sensitivity","Age only","US",6,0.0492537949686455,0.178617674513878,512,89
+"KN historical common reference","Forward sensitivity","Age only","US",7,0.0654235584204489,0.236113588149224,502,134
+"KN historical common reference","Forward sensitivity","Age only","US",8,0.0886276403999537,0.443223958564186,723,300
+"KN historical common reference","Forward sensitivity","Age only","US",9,0.123670624633358,0.532866949660299,549,292
+"KN historical common reference","Forward sensitivity","Age only","US",10,0.170941378050239,0.673839205463856,391,258
+"KN historical common reference","Forward sensitivity","OSTA","US",1,0.0182762903033586,0.0324271514403578,451,12
+"KN historical common reference","Forward sensitivity","OSTA","US",2,0.0329244370548709,0.0425815675943913,423,16
+"KN historical common reference","Forward sensitivity","OSTA","US",3,0.0451311001169943,0.0582130161123463,431,22
+"KN historical common reference","Forward sensitivity","OSTA","US",4,0.0581683767067496,0.0744260804743602,478,43
+"KN historical common reference","Forward sensitivity","OSTA","US",5,0.0750155871667146,0.10437157228363,479,58
+"KN historical common reference","Forward sensitivity","OSTA","US",6,0.0945345430866178,0.176321799299998,503,86
+"KN historical common reference","Forward sensitivity","OSTA","US",7,0.124325247624304,0.273563991941546,559,148
+"KN historical common reference","Forward sensitivity","OSTA","US",8,0.174952268719159,0.388080546519662,572,217
+"KN historical common reference","Forward sensitivity","OSTA","US",9,0.252525986009999,0.519460626395709,556,272
+"KN historical common reference","Forward sensitivity","OSTA","US",10,0.432288245659673,0.732601094734956,559,402
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",1,0.00486120138809362,0.0129204527072309,426,4
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",2,0.00846746827932558,0.0321039427340037,407,11
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",3,0.0127194308817048,0.0884237066246364,420,32
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",4,0.0176286899269367,0.0459159276565442,473,29
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",5,0.0238005702558936,0.119214071639474,532,70
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",6,0.0311928192096743,0.17412113122408,517,90
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",7,0.041526156581326,0.324196816805834,561,169
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",8,0.0589281933790488,0.366516674205809,545,196
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",9,0.0971244200646906,0.538192847021935,578,298
+"KN historical common reference","Forward sensitivity","Age-weight spline","US",10,0.305255785854632,0.69433505570104,552,377
+"KN historical common reference","Forward sensitivity","Ridge","US",1,0.037697103016604,0.0327704828542178,441,12
+"KN historical common reference","Forward sensitivity","Ridge","US",2,0.04853745241347,0.0422032905904588,430,16
+"KN historical common reference","Forward sensitivity","Ridge","US",3,0.0552888537430619,0.0550298296001984,422,16
+"KN historical common reference","Forward sensitivity","Ridge","US",4,0.0609872049100183,0.0730169071774201,451,43
+"KN historical common reference","Forward sensitivity","Ridge","US",5,0.0680059674661207,0.0939054387964107,499,57
+"KN historical common reference","Forward sensitivity","Ridge","US",6,0.0760237270663642,0.173679975370853,521,86
+"KN historical common reference","Forward sensitivity","Ridge","US",7,0.086867584238381,0.295658099563562,552,160
+"KN historical common reference","Forward sensitivity","Ridge","US",8,0.103229392698021,0.386782918768671,564,208
+"KN historical common reference","Forward sensitivity","Ridge","US",9,0.125615862077316,0.513482314239355,581,285
+"KN historical common reference","Forward sensitivity","Ridge","US",10,0.173608428086208,0.727509731642823,550,393
+"KN contemporary common reference","Forward sensitivity","Age only","US",1,0.0163531434115566,0.0557576441580027,182,11
+"KN contemporary common reference","Forward sensitivity","Age only","US",2,0.0205038535869223,0.0630142263096665,107,8
+"KN contemporary common reference","Forward sensitivity","Age only","US",3,0.024685184515999,0.0799586550323864,117,11
+"KN contemporary common reference","Forward sensitivity","Age only","US",4,0.0313623057713622,0.0958692814678366,144,15
+"KN contemporary common reference","Forward sensitivity","Age only","US",5,0.0413460537535706,0.117186609240405,172,23
+"KN contemporary common reference","Forward sensitivity","Age only","US",6,0.0517323257011236,0.14619499685351,148,24
+"KN contemporary common reference","Forward sensitivity","Age only","US",7,0.0653024133431352,0.181215482482563,164,35
+"KN contemporary common reference","Forward sensitivity","Age only","US",8,0.0845714036253452,0.226581458917111,191,41
+"KN contemporary common reference","Forward sensitivity","Age only","US",9,0.113385153483715,0.241832683682832,186,50
+"KN contemporary common reference","Forward sensitivity","Age only","US",10,0.160067735942641,0.396064512510814,142,58
+"KN contemporary common reference","Forward sensitivity","OSTA","US",1,0.0146159469698663,0.032954428845816,140,5
+"KN contemporary common reference","Forward sensitivity","OSTA","US",2,0.0326321328998987,0.0610930482655421,135,10
+"KN contemporary common reference","Forward sensitivity","OSTA","US",3,0.0484326825929136,0.0483930408681035,141,10
+"KN contemporary common reference","Forward sensitivity","OSTA","US",4,0.0637375814429542,0.0851270370628983,156,15
+"KN contemporary common reference","Forward sensitivity","OSTA","US",5,0.0804191811755144,0.0803810335598531,147,14
+"KN contemporary common reference","Forward sensitivity","OSTA","US",6,0.100323760729919,0.125065807439765,146,21
+"KN contemporary common reference","Forward sensitivity","OSTA","US",7,0.126561333999876,0.158152320042909,163,28
+"KN contemporary common reference","Forward sensitivity","OSTA","US",8,0.16402410706452,0.179838519569677,178,33
+"KN contemporary common reference","Forward sensitivity","OSTA","US",9,0.225891006743842,0.372090211142268,180,68
+"KN contemporary common reference","Forward sensitivity","OSTA","US",10,0.353872094296895,0.412630404390121,167,72
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",1,0.00563294095192248,0.0264293978960784,130,4
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",2,0.0112088885338972,0.0534099995352681,141,8
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",3,0.0168593874810263,0.0516483261521766,131,9
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",4,0.022771829602739,0.0901662119608437,148,16
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",5,0.0295876565887987,0.0776431843121588,154,14
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",6,0.0368920439163235,0.134053630839085,162,23
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",7,0.0470698233497281,0.168043750849121,170,34
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",8,0.0630053671936652,0.20021730615559,179,37
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",9,0.0909979442513265,0.306575819326799,171,55
+"KN contemporary common reference","Forward sensitivity","Age-weight spline","US",10,0.217119964569775,0.444870785091779,167,76
+"KN contemporary common reference","Forward sensitivity","Ridge","US",1,0.0345352589490023,0.0257975378784984,138,4
+"KN contemporary common reference","Forward sensitivity","Ridge","US",2,0.0497102191110655,0.0616635221861719,135,10
+"KN contemporary common reference","Forward sensitivity","Ridge","US",3,0.0583471315706604,0.0372475151958094,139,8
+"KN contemporary common reference","Forward sensitivity","Ridge","US",4,0.0652058543285997,0.0983541383914735,144,16
+"KN contemporary common reference","Forward sensitivity","Ridge","US",5,0.0717995832115642,0.0804463493513791,148,15
+"KN contemporary common reference","Forward sensitivity","Ridge","US",6,0.0801588877180324,0.177563721927481,158,28
+"KN contemporary common reference","Forward sensitivity","Ridge","US",7,0.0895829810030785,0.148363789510922,158,28
+"KN contemporary common reference","Forward sensitivity","Ridge","US",8,0.10111950079903,0.187627088269928,171,33
+"KN contemporary common reference","Forward sensitivity","Ridge","US",9,0.119503293438574,0.29084950696752,194,59
+"KN contemporary common reference","Forward sensitivity","Ridge","US",10,0.154661793722116,0.443636130529999,168,75
+"Reverse KN-to-NH common reference","Reverse","Age only","US",1,0.0387583186655211,0.0132750231448587,232,3
+"Reverse KN-to-NH common reference","Reverse","Age only","US",2,0.0511690672716019,0.0145287308495399,214,4
+"Reverse KN-to-NH common reference","Reverse","Age only","US",3,0.0678610014753975,0.0151134982025379,181,3
+"Reverse KN-to-NH common reference","Reverse","Age only","US",4,0.0953881928637543,0.0486509450909669,252,11
+"Reverse KN-to-NH common reference","Reverse","Age only","US",5,0.131849945566901,0.0471555873283959,235,12
+"Reverse KN-to-NH common reference","Reverse","Age only","US",6,0.181309921901152,0.032917200725172,375,11
+"Reverse KN-to-NH common reference","Reverse","Age only","US",7,0.255979651832867,0.0479434974598554,262,15
+"Reverse KN-to-NH common reference","Reverse","Age only","US",8,0.341429675884904,0.0639442458191055,233,11
+"Reverse KN-to-NH common reference","Reverse","Age only","US",9,0.489394645264091,0.116782768428652,402,47
+"Reverse KN-to-NH common reference","Reverse","Age only","US",10,0.66522831239752,0.167679098187209,276,44
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",1,0.000610909543736554,0.00601163704267627,229,1
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",2,0.00326208905213513,0.00149039308771828,269,1
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",3,0.00797973460589299,0.0157687258314192,256,4
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",4,0.0153148236969132,0.0099432457307941,258,2
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",5,0.0264240280552664,0.0324765472693759,247,6
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",6,0.0445862563019166,0.0398992755349705,254,8
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",7,0.0710096907912637,0.0402625442544742,270,8
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",8,0.116540938493362,0.0491885653334232,271,15
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",9,0.204897832435006,0.096528906615361,287,29
+"Reverse KN-to-NH common reference","Reverse","OSTA","US",10,0.473747024870117,0.259733342026109,321,87
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",1,0.0140750888293856,0,216,0
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",2,0.0345873758263035,0.00913865668620574,247,2
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",3,0.0540358933300902,0.0105029139161904,208,2
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",4,0.0794281343627819,0.0135582182065417,225,3
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",5,0.110980232700828,0.0297383340602152,232,5
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",6,0.159921198464619,0.0423921503416848,283,8
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",7,0.229700084500864,0.0558683730327869,295,12
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",8,0.33224045573325,0.0418549143901695,301,15
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",9,0.476237608130707,0.0892643565481346,329,30
+"Reverse KN-to-NH common reference","Reverse","Age-weight spline","US",10,0.713565045608045,0.258031502751833,326,84
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",1,0.00620448875552222,0.00600442689801963,225,1
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",2,0.0200461139247678,0.00150678268258486,265,1
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",3,0.0353011562084033,0.0060536597588756,245,2
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",4,0.0520546284036296,0.00585685750286229,242,1
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",5,0.072098514661618,0.0410285657122845,243,8
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",6,0.0981088011972391,0.0699952762477348,248,10
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",7,0.130949820049002,0.0211086997129449,273,9
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",8,0.180855517772895,0.0502493104253181,286,16
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",9,0.272828165735987,0.115478059725287,309,34
+"Reverse KN-to-NH common reference","Reverse","Ridge","US",10,0.475153629069456,0.233518214251961,326,79
+"Korean temporal validation","Korean temporal","Age only","Asian local",1,0.026421313962109,0.0356310867954726,182,7
+"Korean temporal validation","Korean temporal","Age only","Asian local",2,0.037330453022054,0.0255429640544204,107,3
+"Korean temporal validation","Korean temporal","Age only","Asian local",3,0.049519922471737,0.0579371557362108,117,8
+"Korean temporal validation","Korean temporal","Age only","Asian local",4,0.0710667895456377,0.0598420869083084,144,10
+"Korean temporal validation","Korean temporal","Age only","Asian local",5,0.106692789123723,0.0733202670211174,172,15
+"Korean temporal validation","Korean temporal","Age only","Asian local",6,0.146751887275679,0.0897266685068547,148,15
+"Korean temporal validation","Korean temporal","Age only","Asian local",7,0.201721813584085,0.110328686092603,164,22
+"Korean temporal validation","Korean temporal","Age only","Asian local",8,0.280516957840105,0.163413192511709,191,29
+"Korean temporal validation","Korean temporal","Age only","Asian local",9,0.391917967601812,0.187025770066119,186,37
+"Korean temporal validation","Korean temporal","Age only","Asian local",10,0.543632431214584,0.342239888729209,142,50
+"Korean temporal validation","Korean temporal","OSTA","Asian local",1,0.0101961304153471,0.0211817364622429,140,3
+"Korean temporal validation","Korean temporal","OSTA","Asian local",2,0.0286247687683643,0.0391804074892536,135,6
+"Korean temporal validation","Korean temporal","OSTA","Asian local",3,0.048424322298666,0.0236007627297816,141,5
+"Korean temporal validation","Korean temporal","OSTA","Asian local",4,0.069737278568845,0.0441129984778583,156,9
+"Korean temporal validation","Korean temporal","OSTA","Asian local",5,0.0947773946980794,0.0525076676161858,147,10
+"Korean temporal validation","Korean temporal","OSTA","Asian local",6,0.126506330879811,0.0644086350455974,146,12
+"Korean temporal validation","Korean temporal","OSTA","Asian local",7,0.17043451277143,0.0759641489621172,163,13
+"Korean temporal validation","Korean temporal","OSTA","Asian local",8,0.235411151874358,0.141737523977856,178,25
+"Korean temporal validation","Korean temporal","OSTA","Asian local",9,0.343059647539826,0.28129294834667,180,50
+"Korean temporal validation","Korean temporal","OSTA","Asian local",10,0.541124971457237,0.361066387658539,167,63
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",1,0.0177868007959054,0.0153791153366367,130,2
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",2,0.030671917100144,0.0155648248764178,141,2
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",3,0.0442178116475144,0.0503995205557401,133,9
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",4,0.0628031206833702,0.0383053584236505,133,7
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",5,0.0913500179703295,0.0579256836691464,150,10
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",6,0.129842432043075,0.101141122015485,155,16
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",7,0.18255726042859,0.0624550238897775,161,12
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",8,0.254940543686774,0.139416693248515,192,27
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",9,0.356901658525164,0.262385045754811,190,48
+"Korean temporal validation","Korean temporal","Age-weight spline","Asian local",10,0.547221703593419,0.358967429059817,168,63
+"Korean temporal validation","Korean temporal","Ridge","Asian local",1,0.0334309134547356,0.0140767749494414,139,2
+"Korean temporal validation","Korean temporal","Ridge","Asian local",2,0.0624161283161757,0.0352427230423901,132,5
+"Korean temporal validation","Korean temporal","Ridge","Asian local",3,0.0833037565803495,0.0300619933310283,137,6
+"Korean temporal validation","Korean temporal","Ridge","Asian local",4,0.10177212407059,0.0494662317547374,139,9
+"Korean temporal validation","Korean temporal","Ridge","Asian local",5,0.124875941652228,0.0582940620362235,142,9
+"Korean temporal validation","Korean temporal","Ridge","Asian local",6,0.155102146759728,0.0833642994382523,164,15
+"Korean temporal validation","Korean temporal","Ridge","Asian local",7,0.190042685731045,0.0943132790674251,161,16
+"Korean temporal validation","Korean temporal","Ridge","Asian local",8,0.236700919780428,0.139515613038515,178,27
+"Korean temporal validation","Korean temporal","Ridge","Asian local",9,0.311766645234062,0.215800778227259,186,39
+"Korean temporal validation","Korean temporal","Ridge","Asian local",10,0.442653422723715,0.381312803534375,175,68

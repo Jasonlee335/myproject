@@ -1,0 +1,55 @@
+"source_key","source_period","source_outcome","model","term","estimate","lambda","fit_n","fit_events"
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Age only","(Intercept)",-8.98932288607701,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Age only","age",0.0957912486320894,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","OSTA","(Intercept)",-2.65636199693869,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","OSTA","osta_raw",-0.412318544375058,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Age-weight spline","(Intercept)",-0.443035966194967,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Age-weight spline","ns(age, df = 3)1",1.40651821257533,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Age-weight spline","ns(age, df = 3)2",3.97065348586847,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Age-weight spline","ns(age, df = 3)3",2.08744941224134,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Age-weight spline","ns(weight_kg, df = 3)1",-3.90256654586239,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Age-weight spline","ns(weight_kg, df = 3)2",-9.95791417781213,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Age-weight spline","ns(weight_kg, df = 3)3",-4.69818040468486,,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Ridge","(Intercept)",-2.90377544177133,0.10987829787273,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Ridge","age",0.023442840473128,0.10987829787273,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Ridge","I(age^2)",0.000189382852382572,0.10987829787273,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Ridge","weight_kg",-0.0114918109556183,0.10987829787273,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Ridge","I(weight_kg^2)",-5.59846002556205e-05,0.10987829787273,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Ridge","bmi_imputed",-0.0259349080858385,0.10987829787273,2662,161
+"NH_US","NHANES 2005-2010","osteoporosis_fn_us","Ridge","age:weight_kg",-8.45696658778636e-05,0.10987829787273,2662,161
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Age only","(Intercept)",-10.6906147970374,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Age only","age",0.148098385387337,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","OSTA","(Intercept)",-2.08922396193129,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","OSTA","osta_raw",-0.566119835845134,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Age-weight spline","(Intercept)",0.358794384139084,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Age-weight spline","ns(age, df = 3)1",2.32890972468681,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Age-weight spline","ns(age, df = 3)2",4.76423826146594,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Age-weight spline","ns(age, df = 3)3",3.27082338494249,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Age-weight spline","ns(weight_kg, df = 3)1",-3.06253193259593,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Age-weight spline","ns(weight_kg, df = 3)2",-9.3019708115493,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Age-weight spline","ns(weight_kg, df = 3)3",-5.88349347659408,,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Ridge","(Intercept)",-2.94818592942187,0.109113864194847,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Ridge","age",0.046232736701539,0.109113864194847,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Ridge","I(age^2)",0.000367088589423915,0.109113864194847,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Ridge","weight_kg",-0.0297860297953242,0.109113864194847,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Ridge","I(weight_kg^2)",-0.000213348564331137,0.109113864194847,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Ridge","bmi_imputed",-0.0312855395905525,0.109113864194847,5011,1276
+"KN_US","KNHANES 2008-2011","osteoporosis_fn_us","Ridge","age:weight_kg",0.000125657863350912,0.109113864194847,5011,1276
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Age only","(Intercept)",-11.220073256737,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Age only","age",0.14901542724026,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","OSTA","(Intercept)",-2.55077873438246,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","OSTA","osta_raw",-0.55063207597859,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Age-weight spline","(Intercept)",-0.111559332651612,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Age-weight spline","ns(age, df = 3)1",2.48713978086069,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Age-weight spline","ns(age, df = 3)2",4.39091456460799,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Age-weight spline","ns(age, df = 3)3",3.18547015136181,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Age-weight spline","ns(weight_kg, df = 3)1",-2.88621896802743,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Age-weight spline","ns(weight_kg, df = 3)2",-8.7522919194174,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Age-weight spline","ns(weight_kg, df = 3)3",-5.04351174776919,,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Ridge","(Intercept)",-3.21313797316958,0.118875332790957,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Ridge","age",0.0424787681999996,0.118875332790957,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Ridge","I(age^2)",0.000339586808733523,0.118875332790957,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Ridge","weight_kg",-0.0277778817229709,0.118875332790957,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Ridge","I(weight_kg^2)",-0.000195756164177031,0.118875332790957,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Ridge","bmi_imputed",-0.0267756582448287,0.118875332790957,5011,938
+"KN_LOCAL","KNHANES 2008-2011","osteoporosis_fn_local","Ridge","age:weight_kg",0.00010554422473436,0.118875332790957,5011,938

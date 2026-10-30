@@ -1,0 +1,3 @@
+"model","harrell_c","harrell_c_se","delta_c_vs_baseline"
+"Baseline clinical factors",0.582843507601573,0.020015640207151,0
+"Baseline factors plus OSTA risk",0.612980199023379,0.01988094509573,0.0301366914218061

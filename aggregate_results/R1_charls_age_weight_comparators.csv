@@ -1,0 +1,6 @@
+"model","n","events","apparent_harrell_c","predictors","note"
+"clinical",4878,219,0.582843507601573,"Surv(followup_years,incident_hip) ~ baseline_fall + rural + stroke + arthritis","In-sample descriptive C-index; not external validation"
+"clinical_plus_osta",4878,219,0.612980199023379,"Surv(followup_years,incident_hip) ~ risk_z + baseline_fall + rural + stroke + arthritis","In-sample descriptive C-index; not external validation"
+"clinical_plus_age_weight",4878,219,0.632509485638571,"Surv(followup_years,incident_hip) ~ age + weight_kg + baseline_fall + rural + stroke + arthritis","In-sample descriptive C-index; not external validation"
+"clinical_plus_age_weight_splines",4878,219,0.636952662196321,"Surv(followup_years,incident_hip) ~ splines::ns(age,3) + splines::ns(weight_kg,3) + baseline_fall + rural + stroke + arthritis","In-sample descriptive C-index; not external validation"
+"clinical_plus_high20",4878,219,0.606165482202737,"Surv(followup_years,incident_hip) ~ high20 + baseline_fall + rural + stroke + arthritis","In-sample descriptive C-index; not external validation"

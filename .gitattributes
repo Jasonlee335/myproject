@@ -1,0 +1,2 @@
+# Preserve deposited bytes so SHA-256 checksums survive clones on all platforms.
+* -text

@@ -1,0 +1,6 @@
+"period","unweighted_n","positive_weights","complete_design","both_outcome_classes","strata_n","psu_n"
+"NHANES 2005-2010",2662,TRUE,TRUE,TRUE,46,93
+"NHANES 2013-2014",995,TRUE,TRUE,TRUE,15,30
+"NHANES 2017-Mar 2020",1496,TRUE,TRUE,TRUE,24,49
+"KNHANES 2008-2011",5011,TRUE,TRUE,TRUE,96,575
+"KNHANES 2024",1553,TRUE,TRUE,TRUE,27,179

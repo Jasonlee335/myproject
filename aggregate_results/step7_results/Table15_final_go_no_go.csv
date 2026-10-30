@@ -1,0 +1,7 @@
+"criterion","threshold","observed","passed","decision"
+"Bidirectional/temporal OSTA discrimination","All prespecified validation AUC >=0.75","Minimum AUC 0.774",TRUE,"GO"
+"Clinically meaningful calibration or threshold drift","Absolute calibration intercept >0.20 or target referral deviation >10 pp","Maximum |intercept| 0.781; fixed-OSTA Korean deviation 30.9-33.4 pp",TRUE,"GO"
+"Capacity control","Target-rank referral deviation <0.1 pp","Maximum deviation 0.000 pp",TRUE,"GO"
+"Prospective CHARLS clinical enrichment","Top 20% captures >20% events and adjusted HR lower CI >1","Captured 29.1%; HR 1.70 (1.26-2.29)",TRUE,"GO"
+"Robustness to competing risk, IPCW, proxy outcome, and landmarks","All prespecified OSTA estimates remain directionally positive","Minimum lower CI 1.12",TRUE,"GO"
+"Worst-case same-capacity regret","OSTA maximum regret <=0.10","Maximum regret 0.057",TRUE,"GO"

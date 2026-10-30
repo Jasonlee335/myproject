@@ -1,0 +1,2 @@
+"analysis","subgroup","imputations","model_n","model_events","log_estimate","standard_error","degrees_freedom","estimate","lower","upper","p_value"
+"Multiple imputation with Rubin pooling","All eligible",20,4933,223,0.399457150166016,0.084973655155432,31938622.0700979,1.49101508062194,1.26227019282697,1.76121244348101,2.58951328936222e-06

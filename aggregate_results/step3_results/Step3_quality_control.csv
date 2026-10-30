@@ -1,0 +1,37 @@
+"scenario","model","target_n","target_events","prediction_metrics_finite","auc_in_range","pr_auc_in_range","brier_in_range","calibration_finite"
+"NH development apparent","Age only",2662,161,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH development apparent","OSTA",2662,161,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH development apparent","Age-weight spline",2662,161,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH development apparent","Ridge",2662,161,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH temporal validation 1","Age only",995,82,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH temporal validation 1","OSTA",995,82,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH temporal validation 1","Age-weight spline",995,82,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH temporal validation 1","Ridge",995,82,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH temporal validation 2","Age only",1496,113,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH temporal validation 2","OSTA",1496,113,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH temporal validation 2","Age-weight spline",1496,113,TRUE,TRUE,TRUE,TRUE,TRUE
+"NH temporal validation 2","Ridge",1496,113,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN historical geographic","Age only",5011,938,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN historical geographic","OSTA",5011,938,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN historical geographic","Age-weight spline",5011,938,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN historical geographic","Ridge",5011,938,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN contemporary temporal-geographic","Age only",1553,196,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN contemporary temporal-geographic","OSTA",1553,196,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN contemporary temporal-geographic","Age-weight spline",1553,196,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN contemporary temporal-geographic","Ridge",1553,196,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN historical common reference","Age only",5011,1276,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN historical common reference","OSTA",5011,1276,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN historical common reference","Age-weight spline",5011,1276,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN historical common reference","Ridge",5011,1276,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN contemporary common reference","Age only",1553,276,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN contemporary common reference","OSTA",1553,276,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN contemporary common reference","Age-weight spline",1553,276,TRUE,TRUE,TRUE,TRUE,TRUE
+"KN contemporary common reference","Ridge",1553,276,TRUE,TRUE,TRUE,TRUE,TRUE
+"Reverse KN-to-NH common reference","Age only",2662,161,TRUE,TRUE,TRUE,TRUE,TRUE
+"Reverse KN-to-NH common reference","OSTA",2662,161,TRUE,TRUE,TRUE,TRUE,TRUE
+"Reverse KN-to-NH common reference","Age-weight spline",2662,161,TRUE,TRUE,TRUE,TRUE,TRUE
+"Reverse KN-to-NH common reference","Ridge",2662,161,TRUE,TRUE,TRUE,TRUE,TRUE
+"Korean temporal validation","Age only",1553,196,TRUE,TRUE,TRUE,TRUE,TRUE
+"Korean temporal validation","OSTA",1553,196,TRUE,TRUE,TRUE,TRUE,TRUE
+"Korean temporal validation","Age-weight spline",1553,196,TRUE,TRUE,TRUE,TRUE,TRUE
+"Korean temporal validation","Ridge",1553,196,TRUE,TRUE,TRUE,TRUE,TRUE

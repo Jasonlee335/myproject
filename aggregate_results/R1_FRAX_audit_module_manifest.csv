@@ -1,0 +1,16 @@
+"module","inspected","records_read"
+"biomarkers.dta",TRUE,0
+"community.dta",TRUE,0
+"demographic_background.dta",TRUE,0
+"family_information.dta",TRUE,0
+"family_transfer.dta",TRUE,0
+"health_care_and_insurance.dta",TRUE,0
+"health_status_and_functioning.dta",TRUE,0
+"household_income.dta",TRUE,0
+"household_roster.dta",TRUE,0
+"housing_characteristics.dta",TRUE,0
+"individual_income.dta",TRUE,0
+"interviewer_observation.dta",TRUE,0
+"psu.dta",TRUE,0
+"weight.dta",TRUE,0
+"work_retirement_and_pension.dta",TRUE,0

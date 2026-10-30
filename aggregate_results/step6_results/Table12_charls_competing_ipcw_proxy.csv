@@ -1,0 +1,5 @@
+"analysis","exposure","estimate_scale","estimate","lower","upper","p_value","model_n","model_events","competing_deaths","ipcw_lower","ipcw_upper"
+"Cause-specific Cox with competing deaths","OSTA risk per SD","Hazard ratio",1.29453867153364,1.12113567534673,1.49476143605706,0.000434229378608428,4953,222,,,
+"Fine-Gray subdistribution model","OSTA risk per SD","Subdistribution hazard ratio",1.28010251237921,1.11682089462917,1.46725625396153,0.000389640478100953,4953,222,57,,
+"Discrete-time model with stabilized IPCW","OSTA risk per SD","Discrete-time hazard ratio",1.30521570985383,1.13439284400504,1.50176198505855,0.00019768358437604,17801,219,,0.906412819319741,1.18737507286682
+"Proxy-augmented hip-fracture outcome","OSTA risk per SD","Hazard ratio",1.29533825072022,1.12184142360312,1.49566698864609,0.000420199088157203,4905,222,,,

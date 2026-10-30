@@ -1,0 +1,5 @@
+"analysis","exposure","estimate_scale","estimate","lower","upper","p_value","model_n","model_events","landmark_year"
+"Sequential landmark 2011","Top 20% OSTA risk","Hazard ratio",1.6694469951499,1.23815537042024,2.25097216084367,0.000776759832390593,4909,222,2011
+"Sequential landmark 2013","Top 20% OSTA risk","Hazard ratio",1.5880221944839,1.1808539548121,2.13558542095474,0.00221462749689675,4933,204,2013
+"Sequential landmark 2015","Top 20% OSTA risk","Hazard ratio",1.71010832309375,1.22575820934747,2.38584612724832,0.00158779859358878,5582,122,2015
+"Pooled sequential landmarks, stratified by year","Top 20% OSTA risk","Hazard ratio",1.64877263770697,1.27463425074456,2.13273039639666,0.000140119602435529,15424,548,

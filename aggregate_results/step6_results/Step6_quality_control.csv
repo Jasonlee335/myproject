@@ -1,0 +1,21 @@
+"check","passed","severity","value"
+"Clinical OSTA <= -1 finite enrichment metrics",TRUE,"error",0.605381165919282
+"Target-percentile OSTA 10% finite enrichment metrics",TRUE,"error",0.165919282511211
+"Target-percentile OSTA 20% finite enrichment metrics",TRUE,"error",0.291479820627803
+"Target-percentile OSTA 30% finite enrichment metrics",TRUE,"error",0.381165919282511
+"Target-percentile OSTA 40% finite enrichment metrics",TRUE,"error",0.493273542600897
+"Cause-specific Cox OSTA risk per SD finite regression estimate",TRUE,"error",1.30996860342337
+"Cause-specific Cox Top 20% OSTA risk finite regression estimate",TRUE,"error",1.69921479349077
+"Cox, lifestyle/BMI sensitivity OSTA risk per SD finite regression estimate",TRUE,"error",1.50109054060284
+"Cause-specific Cox Clinical OSTA <= -1 finite regression estimate",TRUE,"error",1.5222279525737
+"Person-time Poisson Top 20% OSTA risk finite regression estimate",TRUE,"error",1.67874571923247
+"Discrete-time complementary log-log OSTA risk per SD finite regression estimate",TRUE,"error",1.31003273692343
+"Cause-specific Cox with competing deaths finite robustness estimate",TRUE,"error",1.29453867153364
+"Fine-Gray subdistribution model finite robustness estimate",TRUE,"error",1.28010251237921
+"Discrete-time model with stabilized IPCW finite robustness estimate",TRUE,"error",1.30521570985383
+"Proxy-augmented hip-fracture outcome finite robustness estimate",TRUE,"error",1.29533825072022
+"Sequential landmark 2011 finite landmark estimate",TRUE,"error",1.6694469951499
+"Sequential landmark 2013 finite landmark estimate",TRUE,"error",1.5880221944839
+"Sequential landmark 2015 finite landmark estimate",TRUE,"error",1.71010832309375
+"Pooled sequential landmarks, stratified by year finite landmark estimate",TRUE,"error",1.64877263770697
+"Proportional-hazards test for continuous OSTA risk",TRUE,"warning",0.287210152306877

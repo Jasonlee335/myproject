@@ -1,0 +1,7 @@
+"analysis","exposure","estimate_scale","estimate","lower","upper","p_value","model_n","model_events"
+"Cause-specific Cox","OSTA risk per SD","Hazard ratio",1.30996860342337,1.13361550466089,1.51375641467456,0.000252195861025951,4878,219
+"Cause-specific Cox","Top 20% OSTA risk","Hazard ratio",1.69921479349077,1.25997016694073,2.29158672973065,0.000511942819948076,4878,219
+"Cox, lifestyle/BMI sensitivity","OSTA risk per SD","Hazard ratio",1.50109054060284,1.27222701412097,1.77112479618601,1.48882083085697e-06,4878,219
+"Cause-specific Cox","Clinical OSTA <= -1","Hazard ratio",1.5222279525737,1.15142820084195,2.01243806422522,0.00317826128309731,4878,219
+"Person-time Poisson","Top 20% OSTA risk","Incidence-rate ratio",1.67874571923247,1.24861671194505,2.25704746931607,0.000603163816151456,4878,219
+"Discrete-time complementary log-log","OSTA risk per SD","Discrete-time hazard ratio",1.31003273692343,1.13813932066428,1.50788725128083,0.000167846742428693,17801,219

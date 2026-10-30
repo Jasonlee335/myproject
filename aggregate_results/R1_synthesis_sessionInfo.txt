@@ -1,0 +1,32 @@
+R version 4.5.0 (2025-04-11 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] C
+system code page: 65001
+
+time zone: Asia/Hong_Kong
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+[1] patchwork_1.3.2 ggplot2_4.0.0   survey_4.4-2    survival_3.8-3 
+[5] Matrix_1.7-3   
+
+loaded via a namespace (and not attached):
+ [1] gtable_0.3.6       dplyr_1.1.4        compiler_4.5.0     tidyselect_1.2.1  
+ [5] Rcpp_1.1.0         splines_4.5.0      systemfonts_1.2.3  scales_1.4.0      
+ [9] textshaping_1.0.1  lattice_0.22-6     readr_2.1.5        R6_2.6.1          
+[13] generics_0.1.4     forcats_1.0.0      tibble_3.3.0       DBI_1.2.3         
+[17] svglite_2.2.1      pillar_1.11.1      RColorBrewer_1.1-3 tzdb_0.5.0        
+[21] rlang_1.1.6        S7_0.2.0           cli_3.6.5          withr_3.0.2       
+[25] magrittr_2.0.3     haven_2.5.5        hms_1.1.3          lifecycle_1.0.5   
+[29] vctrs_0.6.5        glue_1.8.0         farver_2.1.2       ragg_1.4.0        
+[33] mitools_2.4        tools_4.5.0        pkgconfig_2.0.3   

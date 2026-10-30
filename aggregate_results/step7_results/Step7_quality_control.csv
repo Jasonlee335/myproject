@@ -1,0 +1,165 @@
+"check","passed","severity","value"
+"KNHANES 2008-2011: Asian local: Femoral neck: All eligible: finite AUC",TRUE,"error",0.832264470761568
+"KNHANES 2008-2011: Asian local: Femoral neck: Age 50-64: finite AUC",TRUE,"error",0.77598026129657
+"KNHANES 2008-2011: Asian local: Femoral neck: Age 65-79: finite AUC",TRUE,"error",0.699376240602884
+"KNHANES 2008-2011: Asian local: Femoral neck: BMI <25 kg/m2: finite AUC",TRUE,"error",0.841066841577307
+"KNHANES 2008-2011: Asian local: Femoral neck: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.81993391972703
+"KNHANES 2008-2011: Asian local: Femoral neck: Postmenopausal observed: finite AUC",TRUE,"error",0.820073085371239
+"KNHANES 2008-2011: Asian local: Total hip: All eligible: finite AUC",TRUE,"error",0.897283208229145
+"KNHANES 2008-2011: Asian local: Total hip: Age 50-64: finite AUC",TRUE,"error",0.942606591468253
+"KNHANES 2008-2011: Asian local: Total hip: Age 65-79: finite AUC",TRUE,"error",0.782716314714255
+"KNHANES 2008-2011: Asian local: Total hip: BMI <25 kg/m2: finite AUC",TRUE,"error",0.885971033934843
+"KNHANES 2008-2011: Asian local: Total hip: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.9050808316252
+"KNHANES 2008-2011: Asian local: Total hip: Postmenopausal observed: finite AUC",TRUE,"error",0.88774262443251
+"KNHANES 2008-2011: Asian local: Lumbar spine: All eligible: finite AUC",TRUE,"error",0.77638532234981
+"KNHANES 2008-2011: Asian local: Lumbar spine: Age 50-64: finite AUC",TRUE,"error",0.704312561608688
+"KNHANES 2008-2011: Asian local: Lumbar spine: Age 65-79: finite AUC",TRUE,"error",0.692250007161168
+"KNHANES 2008-2011: Asian local: Lumbar spine: BMI <25 kg/m2: finite AUC",TRUE,"error",0.793363622400049
+"KNHANES 2008-2011: Asian local: Lumbar spine: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.741228265000392
+"KNHANES 2008-2011: Asian local: Lumbar spine: Postmenopausal observed: finite AUC",TRUE,"error",0.764041909654253
+"KNHANES 2008-2011: Asian local: Any complete site: All eligible: finite AUC",TRUE,"error",0.802625376500523
+"KNHANES 2008-2011: Asian local: Any complete site: Age 50-64: finite AUC",TRUE,"error",0.711899652613768
+"KNHANES 2008-2011: Asian local: Any complete site: Age 65-79: finite AUC",TRUE,"error",0.713022407754594
+"KNHANES 2008-2011: Asian local: Any complete site: BMI <25 kg/m2: finite AUC",TRUE,"error",0.817898120882029
+"KNHANES 2008-2011: Asian local: Any complete site: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.783142559051742
+"KNHANES 2008-2011: Asian local: Any complete site: Postmenopausal observed: finite AUC",TRUE,"error",0.790719893949041
+"KNHANES 2008-2011: US common: Femoral neck: All eligible: finite AUC",TRUE,"error",0.830837443237992
+"KNHANES 2008-2011: US common: Femoral neck: Age 50-64: finite AUC",TRUE,"error",0.75978907937831
+"KNHANES 2008-2011: US common: Femoral neck: Age 65-79: finite AUC",TRUE,"error",0.710398199890422
+"KNHANES 2008-2011: US common: Femoral neck: BMI <25 kg/m2: finite AUC",TRUE,"error",0.837084165733328
+"KNHANES 2008-2011: US common: Femoral neck: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.824184025286672
+"KNHANES 2008-2011: US common: Femoral neck: Postmenopausal observed: finite AUC",TRUE,"error",0.81825249465753
+"KNHANES 2008-2011: US common: Total hip: All eligible: finite AUC",TRUE,"error",0.852506053378108
+"KNHANES 2008-2011: US common: Total hip: Age 50-64: finite AUC",TRUE,"error",0.844662402308759
+"KNHANES 2008-2011: US common: Total hip: Age 65-79: finite AUC",TRUE,"error",0.728288184870887
+"KNHANES 2008-2011: US common: Total hip: BMI <25 kg/m2: finite AUC",TRUE,"error",0.844785924149235
+"KNHANES 2008-2011: US common: Total hip: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.851557907942917
+"KNHANES 2008-2011: US common: Total hip: Postmenopausal observed: finite AUC",TRUE,"error",0.840322817301631
+"KNHANES 2008-2011: US common: Lumbar spine: All eligible: finite AUC",TRUE,"error",0.768947007629645
+"KNHANES 2008-2011: US common: Lumbar spine: Age 50-64: finite AUC",TRUE,"error",0.70435873039753
+"KNHANES 2008-2011: US common: Lumbar spine: Age 65-79: finite AUC",TRUE,"error",0.700536282201082
+"KNHANES 2008-2011: US common: Lumbar spine: BMI <25 kg/m2: finite AUC",TRUE,"error",0.786044190907273
+"KNHANES 2008-2011: US common: Lumbar spine: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.730391260512965
+"KNHANES 2008-2011: US common: Lumbar spine: Postmenopausal observed: finite AUC",TRUE,"error",0.753761226832913
+"KNHANES 2008-2011: US common: Any complete site: All eligible: finite AUC",TRUE,"error",0.799243413308274
+"KNHANES 2008-2011: US common: Any complete site: Age 50-64: finite AUC",TRUE,"error",0.716249886087369
+"KNHANES 2008-2011: US common: Any complete site: Age 65-79: finite AUC",TRUE,"error",0.737999829707446
+"KNHANES 2008-2011: US common: Any complete site: BMI <25 kg/m2: finite AUC",TRUE,"error",0.819413071863215
+"KNHANES 2008-2011: US common: Any complete site: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.767419594097982
+"KNHANES 2008-2011: US common: Any complete site: Postmenopausal observed: finite AUC",TRUE,"error",0.785414991219696
+"KNHANES 2024: Asian local: Femoral neck: All eligible: finite AUC",TRUE,"error",0.783997018617002
+"KNHANES 2024: Asian local: Femoral neck: Age 50-64: finite AUC",TRUE,"error",0.718026291412347
+"KNHANES 2024: Asian local: Femoral neck: Age 65-79: finite AUC",TRUE,"error",0.734849053993977
+"KNHANES 2024: Asian local: Femoral neck: BMI <25 kg/m2: finite AUC",TRUE,"error",0.780700591198663
+"KNHANES 2024: Asian local: Femoral neck: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.795143474585489
+"KNHANES 2024: Asian local: Total hip: All eligible: finite AUC",TRUE,"error",0.822594301475917
+"KNHANES 2024: Asian local: Total hip: Age 65-79: finite AUC",TRUE,"error",0.718312765075393
+"KNHANES 2024: Asian local: Total hip: BMI <25 kg/m2: finite AUC",TRUE,"error",0.822621658559245
+"KNHANES 2024: Asian local: Lumbar spine: All eligible: finite AUC",TRUE,"error",0.716483434993649
+"KNHANES 2024: Asian local: Lumbar spine: Age 50-64: finite AUC",TRUE,"error",0.703612972722189
+"KNHANES 2024: Asian local: Lumbar spine: Age 65-79: finite AUC",TRUE,"error",0.671247299939826
+"KNHANES 2024: Asian local: Lumbar spine: BMI <25 kg/m2: finite AUC",TRUE,"error",0.683564941911195
+"KNHANES 2024: Asian local: Lumbar spine: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.724198837611953
+"KNHANES 2024: Asian local: Any complete site: All eligible: finite AUC",TRUE,"error",0.749299650751317
+"KNHANES 2024: Asian local: Any complete site: Age 50-64: finite AUC",TRUE,"error",0.714256469081967
+"KNHANES 2024: Asian local: Any complete site: Age 65-79: finite AUC",TRUE,"error",0.700167722158334
+"KNHANES 2024: Asian local: Any complete site: BMI <25 kg/m2: finite AUC",TRUE,"error",0.726848407288749
+"KNHANES 2024: Asian local: Any complete site: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.763620011269956
+"KNHANES 2024: US common: Femoral neck: All eligible: finite AUC",TRUE,"error",0.754160066781004
+"KNHANES 2024: US common: Femoral neck: Age 50-64: finite AUC",TRUE,"error",0.710122945300786
+"KNHANES 2024: US common: Femoral neck: Age 65-79: finite AUC",TRUE,"error",0.699880097950354
+"KNHANES 2024: US common: Femoral neck: BMI <25 kg/m2: finite AUC",TRUE,"error",0.734002273905286
+"KNHANES 2024: US common: Femoral neck: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.786850232319918
+"KNHANES 2024: US common: Total hip: All eligible: finite AUC",TRUE,"error",0.814616248131225
+"KNHANES 2024: US common: Total hip: Age 50-64: finite AUC",TRUE,"error",0.788282029279252
+"KNHANES 2024: US common: Total hip: Age 65-79: finite AUC",TRUE,"error",0.749736210249655
+"KNHANES 2024: US common: Total hip: BMI <25 kg/m2: finite AUC",TRUE,"error",0.8004965988194
+"KNHANES 2024: US common: Total hip: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.814245909221534
+"KNHANES 2024: US common: Lumbar spine: All eligible: finite AUC",TRUE,"error",0.707641253627241
+"KNHANES 2024: US common: Lumbar spine: Age 50-64: finite AUC",TRUE,"error",0.71233171650038
+"KNHANES 2024: US common: Lumbar spine: Age 65-79: finite AUC",TRUE,"error",0.676195114420528
+"KNHANES 2024: US common: Lumbar spine: BMI <25 kg/m2: finite AUC",TRUE,"error",0.680652947598643
+"KNHANES 2024: US common: Lumbar spine: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.697272960502819
+"KNHANES 2024: US common: Any complete site: All eligible: finite AUC",TRUE,"error",0.736313661636773
+"KNHANES 2024: US common: Any complete site: Age 50-64: finite AUC",TRUE,"error",0.714804314119991
+"KNHANES 2024: US common: Any complete site: Age 65-79: finite AUC",TRUE,"error",0.696514739498282
+"KNHANES 2024: US common: Any complete site: BMI <25 kg/m2: finite AUC",TRUE,"error",0.711012454177891
+"KNHANES 2024: US common: Any complete site: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.752218716030456
+"NHANES 2005-2010: US common: Femoral neck: All eligible: finite AUC",TRUE,"error",0.816716497447213
+"NHANES 2005-2010: US common: Femoral neck: Age 50-64: finite AUC",TRUE,"error",0.800264465807962
+"NHANES 2005-2010: US common: Femoral neck: Age 65-79: finite AUC",TRUE,"error",0.766519327342786
+"NHANES 2005-2010: US common: Femoral neck: BMI <25 kg/m2: finite AUC",TRUE,"error",0.781051620196509
+"NHANES 2005-2010: US common: Femoral neck: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.783182795063368
+"NHANES 2005-2010: US common: Femoral neck: Postmenopausal observed: finite AUC",TRUE,"error",0.812259677808721
+"NHANES 2005-2010: US common: Total hip: All eligible: finite AUC",TRUE,"error",0.8496039769774
+"NHANES 2005-2010: US common: Total hip: Age 50-64: finite AUC",TRUE,"error",0.812721403791952
+"NHANES 2005-2010: US common: Total hip: Age 65-79: finite AUC",TRUE,"error",0.813500683940982
+"NHANES 2005-2010: US common: Total hip: BMI <25 kg/m2: finite AUC",TRUE,"error",0.822037559542165
+"NHANES 2005-2010: US common: Total hip: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.78853974361933
+"NHANES 2005-2010: US common: Total hip: Postmenopausal observed: finite AUC",TRUE,"error",0.842111999442024
+"NHANES 2005-2010: US common: Lumbar spine: All eligible: finite AUC",TRUE,"error",0.801738485108682
+"NHANES 2005-2010: US common: Lumbar spine: Age 50-64: finite AUC",TRUE,"error",0.797983877997279
+"NHANES 2005-2010: US common: Lumbar spine: Age 65-79: finite AUC",TRUE,"error",0.750264529900842
+"NHANES 2005-2010: US common: Lumbar spine: BMI <25 kg/m2: finite AUC",TRUE,"error",0.719170325197968
+"NHANES 2005-2010: US common: Lumbar spine: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.822450046448775
+"NHANES 2005-2010: US common: Lumbar spine: Postmenopausal observed: finite AUC",TRUE,"error",0.785105832041831
+"NHANES 2005-2010: US common: Any complete site: All eligible: finite AUC",TRUE,"error",0.804057859707851
+"NHANES 2005-2010: US common: Any complete site: Age 50-64: finite AUC",TRUE,"error",0.786118524512692
+"NHANES 2005-2010: US common: Any complete site: Age 65-79: finite AUC",TRUE,"error",0.761879562959462
+"NHANES 2005-2010: US common: Any complete site: BMI <25 kg/m2: finite AUC",TRUE,"error",0.721833137261788
+"NHANES 2005-2010: US common: Any complete site: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.808098836290121
+"NHANES 2005-2010: US common: Any complete site: Postmenopausal observed: finite AUC",TRUE,"error",0.789181966851434
+"NHANES 2013-2014: US common: Femoral neck: All eligible: finite AUC",TRUE,"error",0.774327177920128
+"NHANES 2013-2014: US common: Femoral neck: Age 50-64: finite AUC",TRUE,"error",0.80537439008266
+"NHANES 2013-2014: US common: Femoral neck: Age 65-79: finite AUC",TRUE,"error",0.686336677434415
+"NHANES 2013-2014: US common: Femoral neck: BMI <25 kg/m2: finite AUC",TRUE,"error",0.757156000858219
+"NHANES 2013-2014: US common: Femoral neck: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.776711689974201
+"NHANES 2013-2014: US common: Total hip: All eligible: finite AUC",TRUE,"error",0.852051980963785
+"NHANES 2013-2014: US common: Total hip: Age 50-64: finite AUC",TRUE,"error",0.949017714574246
+"NHANES 2013-2014: US common: Total hip: Age 65-79: finite AUC",TRUE,"error",0.699733505147453
+"NHANES 2013-2014: US common: Total hip: BMI <25 kg/m2: finite AUC",TRUE,"error",0.764081345227146
+"NHANES 2013-2014: US common: Lumbar spine: All eligible: finite AUC",TRUE,"error",0.778475002412598
+"NHANES 2013-2014: US common: Lumbar spine: Age 50-64: finite AUC",TRUE,"error",0.820195327088108
+"NHANES 2013-2014: US common: Lumbar spine: Age 65-79: finite AUC",TRUE,"error",0.698668372626552
+"NHANES 2013-2014: US common: Lumbar spine: BMI <25 kg/m2: finite AUC",TRUE,"error",0.668348965769121
+"NHANES 2013-2014: US common: Lumbar spine: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.813465855865299
+"NHANES 2013-2014: US common: Any complete site: All eligible: finite AUC",TRUE,"error",0.792755446386614
+"NHANES 2013-2014: US common: Any complete site: Age 50-64: finite AUC",TRUE,"error",0.831755861768796
+"NHANES 2013-2014: US common: Any complete site: Age 65-79: finite AUC",TRUE,"error",0.675989336859852
+"NHANES 2013-2014: US common: Any complete site: BMI <25 kg/m2: finite AUC",TRUE,"error",0.691903718465853
+"NHANES 2013-2014: US common: Any complete site: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.837730290363942
+"NHANES 2017-Mar 2020: US common: Femoral neck: All eligible: finite AUC",TRUE,"error",0.798580321799859
+"NHANES 2017-Mar 2020: US common: Femoral neck: Age 50-64: finite AUC",TRUE,"error",0.854715073586748
+"NHANES 2017-Mar 2020: US common: Femoral neck: Age 65-79: finite AUC",TRUE,"error",0.711857803199823
+"NHANES 2017-Mar 2020: US common: Femoral neck: BMI <25 kg/m2: finite AUC",TRUE,"error",0.744292673559634
+"NHANES 2017-Mar 2020: US common: Femoral neck: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.733436133230033
+"NHANES 2017-Mar 2020: US common: Total hip: All eligible: finite AUC",TRUE,"error",0.850923402223925
+"NHANES 2017-Mar 2020: US common: Total hip: Age 50-64: finite AUC",TRUE,"error",0.898705831110644
+"NHANES 2017-Mar 2020: US common: Total hip: Age 65-79: finite AUC",TRUE,"error",0.778351296044786
+"NHANES 2017-Mar 2020: US common: Total hip: BMI <25 kg/m2: finite AUC",TRUE,"error",0.755169672871535
+"NHANES 2017-Mar 2020: US common: Total hip: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.810457842832386
+"NHANES 2017-Mar 2020: US common: Lumbar spine: All eligible: finite AUC",TRUE,"error",0.801875565467135
+"NHANES 2017-Mar 2020: US common: Lumbar spine: Age 50-64: finite AUC",TRUE,"error",0.816776180306102
+"NHANES 2017-Mar 2020: US common: Lumbar spine: Age 65-79: finite AUC",TRUE,"error",0.791814241862792
+"NHANES 2017-Mar 2020: US common: Lumbar spine: BMI <25 kg/m2: finite AUC",TRUE,"error",0.663510840765246
+"NHANES 2017-Mar 2020: US common: Lumbar spine: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.792261532257586
+"NHANES 2017-Mar 2020: US common: Any complete site: All eligible: finite AUC",TRUE,"error",0.815161918971605
+"NHANES 2017-Mar 2020: US common: Any complete site: Age 50-64: finite AUC",TRUE,"error",0.853057847648125
+"NHANES 2017-Mar 2020: US common: Any complete site: Age 65-79: finite AUC",TRUE,"error",0.739168218006105
+"NHANES 2017-Mar 2020: US common: Any complete site: BMI <25 kg/m2: finite AUC",TRUE,"error",0.708650110002177
+"NHANES 2017-Mar 2020: US common: Any complete site: BMI >=25 kg/m2: finite AUC",TRUE,"error",0.795238235174325
+"Complete-case primary model: All eligible: finite CHARLS estimate",TRUE,"error",1.30996860342337
+"Individual-weight complete-case sensitivity: All eligible: finite CHARLS estimate",TRUE,"error",1.45027998027032
+"BMI 15-40 kg/m2 sensitivity: All eligible: finite CHARLS estimate",TRUE,"error",1.36089720764422
+"Prespecified subgroup: Age 50-64: finite CHARLS estimate",TRUE,"error",1.23202744169424
+"Prespecified subgroup: Age 65-79: finite CHARLS estimate",TRUE,"error",1.10178090153132
+"Prespecified subgroup: BMI <25 kg/m2: finite CHARLS estimate",TRUE,"error",1.37927592345384
+"Prespecified subgroup: BMI >=25 kg/m2: finite CHARLS estimate",TRUE,"error",1.46996138069925
+"Prespecified subgroup: Rural: finite CHARLS estimate",TRUE,"error",1.40339300330563
+"Prespecified subgroup: Urban: finite CHARLS estimate",TRUE,"error",1.09838350014252
+"Go/no-go Bidirectional/temporal OSTA discrimination",TRUE,"decision",1
+"Go/no-go Clinically meaningful calibration or threshold drift",TRUE,"decision",1
+"Go/no-go Capacity control",TRUE,"decision",1
+"Go/no-go Prospective CHARLS clinical enrichment",TRUE,"decision",1
+"Go/no-go Robustness to competing risk, IPCW, proxy outcome, and landmarks",TRUE,"decision",1
+"Go/no-go Worst-case same-capacity regret",TRUE,"decision",1

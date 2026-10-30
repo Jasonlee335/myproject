@@ -1,0 +1,225 @@
+"check","passed","value"
+"NHANES 2005-2010: US: Source-fixed OSTA: 0.1: finite metrics",TRUE,0.473885173536949
+"NHANES 2005-2010: US: Source-fixed spline: 0.1: finite metrics",TRUE,0.44597803290738
+"NHANES 2005-2010: US: Target-percentile OSTA: 0.1: finite metrics",TRUE,0.473885173536949
+"NHANES 2005-2010: US: Target-percentile spline: 0.1: finite metrics",TRUE,0.44597803290738
+"NHANES 2005-2010: US: Target-percentile ridge: 0.1: finite metrics",TRUE,0.451193295666214
+"NHANES 2005-2010: US: Source-fixed OSTA: 0.2: finite metrics",TRUE,0.644473371429564
+"NHANES 2005-2010: US: Source-fixed spline: 0.2: finite metrics",TRUE,0.646361640397562
+"NHANES 2005-2010: US: Target-percentile OSTA: 0.2: finite metrics",TRUE,0.644473371429564
+"NHANES 2005-2010: US: Target-percentile spline: 0.2: finite metrics",TRUE,0.646361640397562
+"NHANES 2005-2010: US: Target-percentile ridge: 0.2: finite metrics",TRUE,0.617903112195762
+"NHANES 2005-2010: US: Source-fixed OSTA: 0.3: finite metrics",TRUE,0.733656092715184
+"NHANES 2005-2010: US: Source-fixed spline: 0.3: finite metrics",TRUE,0.73884878642156
+"NHANES 2005-2010: US: Target-percentile OSTA: 0.3: finite metrics",TRUE,0.733656092715184
+"NHANES 2005-2010: US: Target-percentile spline: 0.3: finite metrics",TRUE,0.73884878642156
+"NHANES 2005-2010: US: Target-percentile ridge: 0.3: finite metrics",TRUE,0.724934062848204
+"NHANES 2005-2010: US: Source-fixed OSTA: 0.4: finite metrics",TRUE,0.807200395940341
+"NHANES 2005-2010: US: Source-fixed spline: 0.4: finite metrics",TRUE,0.801692590586589
+"NHANES 2005-2010: US: Target-percentile OSTA: 0.4: finite metrics",TRUE,0.807200395940341
+"NHANES 2005-2010: US: Target-percentile spline: 0.4: finite metrics",TRUE,0.801692590586589
+"NHANES 2005-2010: US: Target-percentile ridge: 0.4: finite metrics",TRUE,0.7931326331645
+"NHANES 2013-2014: US: Source-fixed OSTA: 0.1: finite metrics",TRUE,0.283327402513936
+"NHANES 2013-2014: US: Source-fixed spline: 0.1: finite metrics",TRUE,0.339480659895088
+"NHANES 2013-2014: US: Target-percentile OSTA: 0.1: finite metrics",TRUE,0.278546617137835
+"NHANES 2013-2014: US: Target-percentile spline: 0.1: finite metrics",TRUE,0.310584634944009
+"NHANES 2013-2014: US: Target-percentile ridge: 0.1: finite metrics",TRUE,0.264972020818397
+"NHANES 2013-2014: US: Source-fixed OSTA: 0.2: finite metrics",TRUE,0.57906287005295
+"NHANES 2013-2014: US: Source-fixed spline: 0.2: finite metrics",TRUE,0.60020576555509
+"NHANES 2013-2014: US: Target-percentile OSTA: 0.2: finite metrics",TRUE,0.527976022665665
+"NHANES 2013-2014: US: Target-percentile spline: 0.2: finite metrics",TRUE,0.58534610915417
+"NHANES 2013-2014: US: Target-percentile ridge: 0.2: finite metrics",TRUE,0.538307268237061
+"NHANES 2013-2014: US: Source-fixed OSTA: 0.3: finite metrics",TRUE,0.7229905166666
+"NHANES 2013-2014: US: Source-fixed spline: 0.3: finite metrics",TRUE,0.755366070518513
+"NHANES 2013-2014: US: Target-percentile OSTA: 0.3: finite metrics",TRUE,0.710253369718865
+"NHANES 2013-2014: US: Target-percentile spline: 0.3: finite metrics",TRUE,0.707693215005477
+"NHANES 2013-2014: US: Target-percentile ridge: 0.3: finite metrics",TRUE,0.71340250292572
+"NHANES 2013-2014: US: Source-fixed OSTA: 0.4: finite metrics",TRUE,0.796515160515865
+"NHANES 2013-2014: US: Source-fixed spline: 0.4: finite metrics",TRUE,0.833808700386096
+"NHANES 2013-2014: US: Target-percentile OSTA: 0.4: finite metrics",TRUE,0.796515160515865
+"NHANES 2013-2014: US: Target-percentile spline: 0.4: finite metrics",TRUE,0.82170009965047
+"NHANES 2013-2014: US: Target-percentile ridge: 0.4: finite metrics",TRUE,0.763501345293544
+"NHANES 2017-Mar 2020: US: Source-fixed OSTA: 0.1: finite metrics",TRUE,0.373496714497639
+"NHANES 2017-Mar 2020: US: Source-fixed spline: 0.1: finite metrics",TRUE,0.595974099923505
+"NHANES 2017-Mar 2020: US: Target-percentile OSTA: 0.1: finite metrics",TRUE,0.396227811407213
+"NHANES 2017-Mar 2020: US: Target-percentile spline: 0.1: finite metrics",TRUE,0.412221350073154
+"NHANES 2017-Mar 2020: US: Target-percentile ridge: 0.1: finite metrics",TRUE,0.39571436461902
+"NHANES 2017-Mar 2020: US: Source-fixed OSTA: 0.2: finite metrics",TRUE,0.629054329063261
+"NHANES 2017-Mar 2020: US: Source-fixed spline: 0.2: finite metrics",TRUE,0.729761977692356
+"NHANES 2017-Mar 2020: US: Target-percentile OSTA: 0.2: finite metrics",TRUE,0.600757937261471
+"NHANES 2017-Mar 2020: US: Target-percentile spline: 0.2: finite metrics",TRUE,0.613306019567902
+"NHANES 2017-Mar 2020: US: Target-percentile ridge: 0.2: finite metrics",TRUE,0.596298680583311
+"NHANES 2017-Mar 2020: US: Source-fixed OSTA: 0.3: finite metrics",TRUE,0.748164139598156
+"NHANES 2017-Mar 2020: US: Source-fixed spline: 0.3: finite metrics",TRUE,0.799169824128928
+"NHANES 2017-Mar 2020: US: Target-percentile OSTA: 0.3: finite metrics",TRUE,0.744430058974567
+"NHANES 2017-Mar 2020: US: Target-percentile spline: 0.3: finite metrics",TRUE,0.76524291638892
+"NHANES 2017-Mar 2020: US: Target-percentile ridge: 0.3: finite metrics",TRUE,0.736388302733161
+"NHANES 2017-Mar 2020: US: Source-fixed OSTA: 0.4: finite metrics",TRUE,0.794524983474224
+"NHANES 2017-Mar 2020: US: Source-fixed spline: 0.4: finite metrics",TRUE,0.905627133993374
+"NHANES 2017-Mar 2020: US: Target-percentile OSTA: 0.4: finite metrics",TRUE,0.794524983474224
+"NHANES 2017-Mar 2020: US: Target-percentile spline: 0.4: finite metrics",TRUE,0.799169824128928
+"NHANES 2017-Mar 2020: US: Target-percentile ridge: 0.4: finite metrics",TRUE,0.822188046539307
+"KNHANES 2008-2011: Asian local: Source-fixed OSTA: 0.1: finite metrics",TRUE,0.742133890937023
+"KNHANES 2008-2011: Asian local: Source-fixed spline: 0.1: finite metrics",TRUE,0.357833389317953
+"KNHANES 2008-2011: Asian local: Target-percentile OSTA: 0.1: finite metrics",TRUE,0.345224985080589
+"KNHANES 2008-2011: Asian local: Target-percentile spline: 0.1: finite metrics",TRUE,0.330742975718279
+"KNHANES 2008-2011: Asian local: Target-percentile ridge: 0.1: finite metrics",TRUE,0.338305852327302
+"KNHANES 2008-2011: Asian local: Source-fixed OSTA: 0.2: finite metrics",TRUE,0.88696268509878
+"KNHANES 2008-2011: Asian local: Source-fixed spline: 0.2: finite metrics",TRUE,0.548774624934512
+"KNHANES 2008-2011: Asian local: Target-percentile OSTA: 0.2: finite metrics",TRUE,0.567512069782455
+"KNHANES 2008-2011: Asian local: Target-percentile spline: 0.2: finite metrics",TRUE,0.562045766308417
+"KNHANES 2008-2011: Asian local: Target-percentile ridge: 0.2: finite metrics",TRUE,0.56017343658081
+"KNHANES 2008-2011: Asian local: Source-fixed OSTA: 0.3: finite metrics",TRUE,0.937641241765872
+"KNHANES 2008-2011: Asian local: Source-fixed spline: 0.3: finite metrics",TRUE,0.708363307125006
+"KNHANES 2008-2011: Asian local: Target-percentile OSTA: 0.3: finite metrics",TRUE,0.722946982961779
+"KNHANES 2008-2011: Asian local: Target-percentile spline: 0.3: finite metrics",TRUE,0.718099924342908
+"KNHANES 2008-2011: Asian local: Target-percentile ridge: 0.3: finite metrics",TRUE,0.717437857835717
+"KNHANES 2008-2011: Asian local: Source-fixed OSTA: 0.4: finite metrics",TRUE,0.980431813540799
+"KNHANES 2008-2011: Asian local: Source-fixed spline: 0.4: finite metrics",TRUE,0.829146625402158
+"KNHANES 2008-2011: Asian local: Target-percentile OSTA: 0.4: finite metrics",TRUE,0.828872521354192
+"KNHANES 2008-2011: Asian local: Target-percentile spline: 0.4: finite metrics",TRUE,0.833034968364935
+"KNHANES 2008-2011: Asian local: Target-percentile ridge: 0.4: finite metrics",TRUE,0.838407362828297
+"KNHANES 2024: Asian local: Source-fixed OSTA: 0.1: finite metrics",TRUE,0.709905609529824
+"KNHANES 2024: Asian local: Source-fixed spline: 0.1: finite metrics",TRUE,0.319909969536661
+"KNHANES 2024: Asian local: Target-percentile OSTA: 0.1: finite metrics",TRUE,0.331080961689137
+"KNHANES 2024: Asian local: Target-percentile spline: 0.1: finite metrics",TRUE,0.34901376386323
+"KNHANES 2024: Asian local: Target-percentile ridge: 0.1: finite metrics",TRUE,0.347506469089819
+"KNHANES 2024: Asian local: Source-fixed OSTA: 0.2: finite metrics",TRUE,0.856108655448367
+"KNHANES 2024: Asian local: Source-fixed spline: 0.2: finite metrics",TRUE,0.542928469157395
+"KNHANES 2024: Asian local: Target-percentile OSTA: 0.2: finite metrics",TRUE,0.588627619867082
+"KNHANES 2024: Asian local: Target-percentile spline: 0.2: finite metrics",TRUE,0.559844690662532
+"KNHANES 2024: Asian local: Target-percentile ridge: 0.2: finite metrics",TRUE,0.543434937754035
+"KNHANES 2024: Asian local: Source-fixed OSTA: 0.3: finite metrics",TRUE,0.923510762960729
+"KNHANES 2024: Asian local: Source-fixed spline: 0.3: finite metrics",TRUE,0.745330000888444
+"KNHANES 2024: Asian local: Target-percentile OSTA: 0.3: finite metrics",TRUE,0.709205618767867
+"KNHANES 2024: Asian local: Target-percentile spline: 0.3: finite metrics",TRUE,0.706565154420294
+"KNHANES 2024: Asian local: Target-percentile ridge: 0.3: finite metrics",TRUE,0.671886621267546
+"KNHANES 2024: Asian local: Source-fixed OSTA: 0.4: finite metrics",TRUE,0.951633289209493
+"KNHANES 2024: Asian local: Source-fixed spline: 0.4: finite metrics",TRUE,0.825686784181348
+"KNHANES 2024: Asian local: Target-percentile OSTA: 0.4: finite metrics",TRUE,0.777747402855057
+"KNHANES 2024: Asian local: Target-percentile spline: 0.4: finite metrics",TRUE,0.783714180042211
+"KNHANES 2024: Asian local: Target-percentile ridge: 0.4: finite metrics",TRUE,0.751215650396073
+"KNHANES 2008-2011: US common: Source-fixed OSTA: 0.1: finite metrics",TRUE,0.698905232686169
+"KNHANES 2008-2011: US common: Source-fixed spline: 0.1: finite metrics",TRUE,0.318339695732584
+"KNHANES 2008-2011: US common: Target-percentile OSTA: 0.1: finite metrics",TRUE,0.305900149504654
+"KNHANES 2008-2011: US common: Target-percentile spline: 0.1: finite metrics",TRUE,0.290499422813294
+"KNHANES 2008-2011: US common: Target-percentile ridge: 0.1: finite metrics",TRUE,0.303635719884095
+"KNHANES 2008-2011: US common: Source-fixed OSTA: 0.2: finite metrics",TRUE,0.873383392958362
+"KNHANES 2008-2011: US common: Source-fixed spline: 0.2: finite metrics",TRUE,0.503019940905818
+"KNHANES 2008-2011: US common: Target-percentile OSTA: 0.2: finite metrics",TRUE,0.521023484732607
+"KNHANES 2008-2011: US common: Target-percentile spline: 0.2: finite metrics",TRUE,0.514626373562517
+"KNHANES 2008-2011: US common: Target-percentile ridge: 0.2: finite metrics",TRUE,0.518619935360328
+"KNHANES 2008-2011: US common: Source-fixed OSTA: 0.3: finite metrics",TRUE,0.933601691738661
+"KNHANES 2008-2011: US common: Source-fixed spline: 0.3: finite metrics",TRUE,0.66098370665377
+"KNHANES 2008-2011: US common: Target-percentile OSTA: 0.3: finite metrics",TRUE,0.682271023409733
+"KNHANES 2008-2011: US common: Target-percentile spline: 0.3: finite metrics",TRUE,0.668763198061703
+"KNHANES 2008-2011: US common: Target-percentile ridge: 0.3: finite metrics",TRUE,0.679887445422364
+"KNHANES 2008-2011: US common: Source-fixed OSTA: 0.4: finite metrics",TRUE,0.968966539528353
+"KNHANES 2008-2011: US common: Source-fixed spline: 0.4: finite metrics",TRUE,0.796766840996856
+"KNHANES 2008-2011: US common: Target-percentile OSTA: 0.4: finite metrics",TRUE,0.796881126045979
+"KNHANES 2008-2011: US common: Target-percentile spline: 0.4: finite metrics",TRUE,0.803077645638147
+"KNHANES 2008-2011: US common: Target-percentile ridge: 0.4: finite metrics",TRUE,0.803708670322624
+"KNHANES 2024: US common: Source-fixed OSTA: 0.1: finite metrics",TRUE,0.625269870197121
+"KNHANES 2024: US common: Source-fixed spline: 0.1: finite metrics",TRUE,0.253056491311485
+"KNHANES 2024: US common: Target-percentile OSTA: 0.1: finite metrics",TRUE,0.267722720227851
+"KNHANES 2024: US common: Target-percentile spline: 0.1: finite metrics",TRUE,0.285131661895623
+"KNHANES 2024: US common: Target-percentile ridge: 0.1: finite metrics",TRUE,0.283569209619229
+"KNHANES 2024: US common: Source-fixed OSTA: 0.2: finite metrics",TRUE,0.828595754144272
+"KNHANES 2024: US common: Source-fixed spline: 0.2: finite metrics",TRUE,0.470332795732821
+"KNHANES 2024: US common: Target-percentile OSTA: 0.2: finite metrics",TRUE,0.508974421083277
+"KNHANES 2024: US common: Target-percentile spline: 0.2: finite metrics",TRUE,0.484900830222742
+"KNHANES 2024: US common: Target-percentile ridge: 0.2: finite metrics",TRUE,0.473186108912694
+"KNHANES 2024: US common: Source-fixed OSTA: 0.3: finite metrics",TRUE,0.907852963633442
+"KNHANES 2024: US common: Source-fixed spline: 0.3: finite metrics",TRUE,0.648691985716306
+"KNHANES 2024: US common: Target-percentile OSTA: 0.3: finite metrics",TRUE,0.619569209886009
+"KNHANES 2024: US common: Target-percentile spline: 0.3: finite metrics",TRUE,0.612312276843966
+"KNHANES 2024: US common: Target-percentile ridge: 0.3: finite metrics",TRUE,0.593568268245365
+"KNHANES 2024: US common: Source-fixed OSTA: 0.4: finite metrics",TRUE,0.950046767769039
+"KNHANES 2024: US common: Source-fixed spline: 0.4: finite metrics",TRUE,0.779901307922404
+"KNHANES 2024: US common: Target-percentile OSTA: 0.4: finite metrics",TRUE,0.72085156262997
+"KNHANES 2024: US common: Target-percentile spline: 0.4: finite metrics",TRUE,0.719957449683581
+"KNHANES 2024: US common: Target-percentile ridge: 0.4: finite metrics",TRUE,0.68935396221511
+"NHANES 2005-2010: US: Target-percentile OSTA: 0.1: capacity exact",TRUE,0
+"NHANES 2005-2010: US: Target-percentile spline: 0.1: capacity exact",TRUE,0
+"NHANES 2005-2010: US: Target-percentile ridge: 0.1: capacity exact",TRUE,-2.77555756156289e-17
+"NHANES 2005-2010: US: Target-percentile OSTA: 0.2: capacity exact",TRUE,-5.55111512312578e-17
+"NHANES 2005-2010: US: Target-percentile spline: 0.2: capacity exact",TRUE,2.77555756156289e-17
+"NHANES 2005-2010: US: Target-percentile ridge: 0.2: capacity exact",TRUE,-2.77555756156289e-17
+"NHANES 2005-2010: US: Target-percentile OSTA: 0.3: capacity exact",TRUE,-1.11022302462516e-16
+"NHANES 2005-2010: US: Target-percentile spline: 0.3: capacity exact",TRUE,0
+"NHANES 2005-2010: US: Target-percentile ridge: 0.3: capacity exact",TRUE,-1.11022302462516e-16
+"NHANES 2005-2010: US: Target-percentile OSTA: 0.4: capacity exact",TRUE,0
+"NHANES 2005-2010: US: Target-percentile spline: 0.4: capacity exact",TRUE,-5.55111512312578e-17
+"NHANES 2005-2010: US: Target-percentile ridge: 0.4: capacity exact",TRUE,-1.11022302462516e-16
+"NHANES 2013-2014: US: Target-percentile OSTA: 0.1: capacity exact",TRUE,1.38777878078145e-17
+"NHANES 2013-2014: US: Target-percentile spline: 0.1: capacity exact",TRUE,0
+"NHANES 2013-2014: US: Target-percentile ridge: 0.1: capacity exact",TRUE,-1.38777878078145e-17
+"NHANES 2013-2014: US: Target-percentile OSTA: 0.2: capacity exact",TRUE,0
+"NHANES 2013-2014: US: Target-percentile spline: 0.2: capacity exact",TRUE,0
+"NHANES 2013-2014: US: Target-percentile ridge: 0.2: capacity exact",TRUE,0
+"NHANES 2013-2014: US: Target-percentile OSTA: 0.3: capacity exact",TRUE,-5.55111512312578e-17
+"NHANES 2013-2014: US: Target-percentile spline: 0.3: capacity exact",TRUE,0
+"NHANES 2013-2014: US: Target-percentile ridge: 0.3: capacity exact",TRUE,0
+"NHANES 2013-2014: US: Target-percentile OSTA: 0.4: capacity exact",TRUE,-5.55111512312578e-17
+"NHANES 2013-2014: US: Target-percentile spline: 0.4: capacity exact",TRUE,0
+"NHANES 2013-2014: US: Target-percentile ridge: 0.4: capacity exact",TRUE,0
+"NHANES 2017-Mar 2020: US: Target-percentile OSTA: 0.1: capacity exact",TRUE,1.38777878078145e-17
+"NHANES 2017-Mar 2020: US: Target-percentile spline: 0.1: capacity exact",TRUE,2.77555756156289e-17
+"NHANES 2017-Mar 2020: US: Target-percentile ridge: 0.1: capacity exact",TRUE,1.38777878078145e-17
+"NHANES 2017-Mar 2020: US: Target-percentile OSTA: 0.2: capacity exact",TRUE,-2.77555756156289e-17
+"NHANES 2017-Mar 2020: US: Target-percentile spline: 0.2: capacity exact",TRUE,2.77555756156289e-17
+"NHANES 2017-Mar 2020: US: Target-percentile ridge: 0.2: capacity exact",TRUE,2.77555756156289e-17
+"NHANES 2017-Mar 2020: US: Target-percentile OSTA: 0.3: capacity exact",TRUE,0
+"NHANES 2017-Mar 2020: US: Target-percentile spline: 0.3: capacity exact",TRUE,-5.55111512312578e-17
+"NHANES 2017-Mar 2020: US: Target-percentile ridge: 0.3: capacity exact",TRUE,-5.55111512312578e-17
+"NHANES 2017-Mar 2020: US: Target-percentile OSTA: 0.4: capacity exact",TRUE,5.55111512312578e-17
+"NHANES 2017-Mar 2020: US: Target-percentile spline: 0.4: capacity exact",TRUE,-5.55111512312578e-17
+"NHANES 2017-Mar 2020: US: Target-percentile ridge: 0.4: capacity exact",TRUE,0
+"KNHANES 2008-2011: Asian local: Target-percentile OSTA: 0.1: capacity exact",TRUE,0
+"KNHANES 2008-2011: Asian local: Target-percentile spline: 0.1: capacity exact",TRUE,-1.38777878078145e-17
+"KNHANES 2008-2011: Asian local: Target-percentile ridge: 0.1: capacity exact",TRUE,0
+"KNHANES 2008-2011: Asian local: Target-percentile OSTA: 0.2: capacity exact",TRUE,0
+"KNHANES 2008-2011: Asian local: Target-percentile spline: 0.2: capacity exact",TRUE,0
+"KNHANES 2008-2011: Asian local: Target-percentile ridge: 0.2: capacity exact",TRUE,0
+"KNHANES 2008-2011: Asian local: Target-percentile OSTA: 0.3: capacity exact",TRUE,-5.55111512312578e-17
+"KNHANES 2008-2011: Asian local: Target-percentile spline: 0.3: capacity exact",TRUE,-5.55111512312578e-17
+"KNHANES 2008-2011: Asian local: Target-percentile ridge: 0.3: capacity exact",TRUE,-5.55111512312578e-17
+"KNHANES 2008-2011: Asian local: Target-percentile OSTA: 0.4: capacity exact",TRUE,-5.55111512312578e-17
+"KNHANES 2008-2011: Asian local: Target-percentile spline: 0.4: capacity exact",TRUE,0
+"KNHANES 2008-2011: Asian local: Target-percentile ridge: 0.4: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile OSTA: 0.1: capacity exact",TRUE,2.77555756156289e-17
+"KNHANES 2024: Asian local: Target-percentile spline: 0.1: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile ridge: 0.1: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile OSTA: 0.2: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile spline: 0.2: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile ridge: 0.2: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile OSTA: 0.3: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile spline: 0.3: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile ridge: 0.3: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile OSTA: 0.4: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile spline: 0.4: capacity exact",TRUE,0
+"KNHANES 2024: Asian local: Target-percentile ridge: 0.4: capacity exact",TRUE,0
+"KNHANES 2008-2011: US common: Target-percentile OSTA: 0.1: capacity exact",TRUE,0
+"KNHANES 2008-2011: US common: Target-percentile spline: 0.1: capacity exact",TRUE,0
+"KNHANES 2008-2011: US common: Target-percentile ridge: 0.1: capacity exact",TRUE,0
+"KNHANES 2008-2011: US common: Target-percentile OSTA: 0.2: capacity exact",TRUE,0
+"KNHANES 2008-2011: US common: Target-percentile spline: 0.2: capacity exact",TRUE,0
+"KNHANES 2008-2011: US common: Target-percentile ridge: 0.2: capacity exact",TRUE,-2.77555756156289e-17
+"KNHANES 2008-2011: US common: Target-percentile OSTA: 0.3: capacity exact",TRUE,0
+"KNHANES 2008-2011: US common: Target-percentile spline: 0.3: capacity exact",TRUE,0
+"KNHANES 2008-2011: US common: Target-percentile ridge: 0.3: capacity exact",TRUE,0
+"KNHANES 2008-2011: US common: Target-percentile OSTA: 0.4: capacity exact",TRUE,-5.55111512312578e-17
+"KNHANES 2008-2011: US common: Target-percentile spline: 0.4: capacity exact",TRUE,-5.55111512312578e-17
+"KNHANES 2008-2011: US common: Target-percentile ridge: 0.4: capacity exact",TRUE,0
+"KNHANES 2024: US common: Target-percentile OSTA: 0.1: capacity exact",TRUE,0
+"KNHANES 2024: US common: Target-percentile spline: 0.1: capacity exact",TRUE,0
+"KNHANES 2024: US common: Target-percentile ridge: 0.1: capacity exact",TRUE,0
+"KNHANES 2024: US common: Target-percentile OSTA: 0.2: capacity exact",TRUE,0
+"KNHANES 2024: US common: Target-percentile spline: 0.2: capacity exact",TRUE,0
+"KNHANES 2024: US common: Target-percentile ridge: 0.2: capacity exact",TRUE,0
+"KNHANES 2024: US common: Target-percentile OSTA: 0.3: capacity exact",TRUE,5.55111512312578e-17
+"KNHANES 2024: US common: Target-percentile spline: 0.3: capacity exact",TRUE,-5.55111512312578e-17
+"KNHANES 2024: US common: Target-percentile ridge: 0.3: capacity exact",TRUE,5.55111512312578e-17
+"KNHANES 2024: US common: Target-percentile OSTA: 0.4: capacity exact",TRUE,1.11022302462516e-16
+"KNHANES 2024: US common: Target-percentile spline: 0.4: capacity exact",TRUE,0
+"KNHANES 2024: US common: Target-percentile ridge: 0.4: capacity exact",TRUE,5.55111512312578e-17

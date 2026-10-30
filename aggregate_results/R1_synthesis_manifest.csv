@@ -1,0 +1,3 @@
+"file","bootstrap_replicates","seed","scope"
+"R1_paired_allocation_contrasts.csv",1000,20261028,"Post hoc exploratory; no multiplicity adjustment; paired survey replicates"
+"R1_age_auc_summary.csv",1000,20261028,"Post hoc exploratory; no multiplicity adjustment; paired survey replicates"
